@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/python3
 
 '''A utility for converting between various hard disk address representations.
 CSE 469 Course Project
